@@ -2,5 +2,4 @@ fr:
   helpers:
     submit:
       password:
-        submit:
-          'Reset password (Translate me!)'
+        submit: 'Reset password (Translate me!)'
