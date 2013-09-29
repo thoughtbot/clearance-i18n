@@ -1,5 +1,73 @@
 fr:
+  clearance_mailer:
+    change_password:
+      opening:
+        "Quelqu'un, en espérant que ce soit vous, nous a demandé de vous envoyer cet e-mail
+        afin de modifier votre mot de passe:"
+      closing:
+        "Si vous n'avez rien demandé, vous pouvez ignorer cet e-mail. Votre mot de passe n'a pas été modifié."
+  flashes:
+    failure_when_forbidden:
+      "Merci de vérifier l'URL ou réessayez de soumettre le formulaire."
+    failure_after_update:
+      'Le mot de passe ne peut être vide.'
+    failure_after_create:
+      "Adresse e-mail ou mot de passe incorrect. Voulez-vous créer un nouveau compte ?
+       <a href='%{sign_up_path}'>S'inscrire</a>."
   helpers:
     submit:
       password:
-        submit: 'Reset password (Translate me!)'
+        submit:
+          'Réinitialiser votre mot de passe'
+      password_reset:
+        submit:
+          'Sauvegarder le mot de passe'
+      session:
+        submit:
+          'Se connecter'
+      user:
+        create:
+          "S'inscrire"
+    label:
+      password:
+        email:
+          'Adresse e-mail'
+      password_reset:
+        password:
+          'Choisissez un mot de passe'
+  layouts:
+    application:
+      sign_in:
+        'Se connecter'
+      sign_out:
+        'Se déconnecter'
+  passwords:
+    create:
+      description:
+        'Vous allez prochainement recevoir un e-mail contenant les instructions afin de changer votre mot de passe.'
+    edit:
+      description:
+        "Votre mot de passe a été réinitialisé. Merci d'en choisir un nouveau."
+      title:
+        'Changez votre mot de passe'
+    new:
+      description:
+        'Afin de recevoir par mail les informations nécessaires pour changer votre mot de passe,
+        merci de nous renseigner votre adresse e-mail.'
+      title:
+        'Réinitialiser votre mot de passe'
+  sessions:
+    form:
+      forgot_password:
+        'Mot de pass oublié ?'
+      sign_up:
+        "S'incrire"
+    new:
+      title:
+        'Se connecter'
+  users:
+    new:
+      title:
+        "S'incrire"
+      sign_in:
+        'Se connecter'
