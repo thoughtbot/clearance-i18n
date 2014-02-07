@@ -26,7 +26,9 @@ Credits
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
 
 Clearance I18n is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
-and [contributors](/thoughtbot/clearance/graphs/contributors) like you. Thank you!
+and [contributors] like you. Thank you!
+
+[contributors]: https://github.com/thoughtbot/clearance-i18n/contributors
 
 License
 -------
