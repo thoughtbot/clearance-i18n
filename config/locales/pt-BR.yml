@@ -1,0 +1,70 @@
+pt-BR:
+  clearance_mailer:
+    change_password:
+      opening:
+        "Alguém, esperamos que você, solicitou que enviássemos um link para alterar a sua senha:"
+      closing:
+        "Se você não solicitou isso, ignore este email. Sua senha não foi alterada."
+  flashes:
+    failure_when_forbidden:
+      "Por favor, verifique a URL, ou tente enviar o formulário novamente."
+    failure_after_update:
+      "Senha não pode ficar em branco."
+    failure_after_create:
+      "Email ou senha não encontrados. Deseja criar uma nova conta? <a href='%{sign_up_path}'>Registrar-se</a>."
+  helpers:
+    submit:
+      password:
+        submit:
+          "Alterar senha"
+      password_reset:
+        submit:
+          "Salvar senha"
+      session:
+        submit:
+          "Entrar"
+      user:
+        create:
+          "Registrar-se"
+    label:
+      password:
+        email:
+          "Endereço de email"
+      password_reset:
+        password:
+          "Escolha uma senha"
+  layouts:
+    application:
+      sign_in:
+        "Entrar"
+      sign_out:
+        "Sair"
+  passwords:
+    create:
+      description:
+        "Nos próximos minutos você vai receber um email contendo instruções para alterar sua senha."
+    edit:
+      description:
+        "Sua senha foi resetada. Escolha uma nova senha abaixo."
+      title:
+        "Altere sua senha"
+    new:
+      description:
+        "Para receber um link para resetar sua senha, por favor, digite seu endereço de email."
+      title:
+        "Resete sua senha"
+  sessions:
+    form:
+      forgot_password:
+        "Esqueceu sua senha?"
+      sign_up:
+        "Registrar-se"
+    new:
+      title:
+        "Entre"
+  users:
+    new:
+      title:
+        "Registre-se"
+      sign_in:
+        "Entrar"
