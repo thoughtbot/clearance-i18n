@@ -1,0 +1,54 @@
+---
+de:
+  clearance_mailer:
+    change_password:
+      closing: Bitte ignorieren Sie diese E-Mail, falls Sie kein neues
+        Passwort angefordert haben.
+      link_text: Mein Passwort ändern
+      opening: "Jemand hat einen Link angefordert, um Ihr Passwort zu ändern:"
+  flashes:
+    failure_after_create: Die Anmeldedaten sind ungültig.
+    failure_after_update: Bitte geben Sie ein Passwort ein.
+    failure_when_forbidden: Bitte überprüfen Sie die URL und versuchen
+      es dann erneut.
+  helpers:
+    label:
+      password:
+        email: E-Mail Adresse
+      password_reset:
+        password: Passwort auswählen
+    submit:
+      password:
+        submit: Passwort zurücksetzen
+      password_reset:
+        submit: Dieses Passwort speichern
+      session:
+        submit: Anmelden
+      user:
+        create: Account anlegen
+  layouts:
+    application:
+      sign_in: Anmelden
+      sign_out: Abmelden
+  passwords:
+    create:
+      description: Sie erhalten in einigen Minuten eine E-Mail
+        mit Informationen zur Änderung Ihres Passworts.
+    edit:
+      description: Ihr Passwort wurde zurückgesetzt. Wählen Sie unten ein
+        neues aus.
+      title: Passwort ändern
+    new:
+      description: Geben Sie ihre E-Mail Adresse ein, um einen Link zum
+        Ändern ihres Passworts zu bekommen.
+      title: Passwort zurücksetzen
+  sessions:
+    form:
+      forgot_password: Passwort vergessen?
+      sign_up: Account anlegen
+    new:
+      title: Anmelden
+  users:
+    new:
+      sign_in: Anmelden
+      title: Account anlegen
