@@ -12,6 +12,8 @@ pt-BR:
       "Senha não pode ficar em branco."
     failure_after_create:
       "Email ou senha não encontrados. Deseja criar uma nova conta? <a href='%{sign_up_path}'>Registrar-se</a>."
+    failure_when_access_denied:
+      "Por favor, efetue login."
   helpers:
     submit:
       password:
