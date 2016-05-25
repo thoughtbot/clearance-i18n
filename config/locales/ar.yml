@@ -1,0 +1,49 @@
+en:
+  clearance_mailer:
+    change_password: نسيت كلمة السر
+      closing: إذا كنت لم تطلب هذا، تجاهل هذا البريد الإلكتروني. لم يتم تغيير كلمة المرور الخاصة بك.
+      link_text: تغير كلمة المرور
+      opening: "شخص ما، ونأمل أن يكون أنت، طلب أن نرسل لك رابطا لتغيير كلمة المرور الخاصة بك:"
+  flashes:
+    failure_after_create: البريد الإلكتروني أو كلمة المرور غير صحيحين.
+    failure_after_update: كلمة المرور لا يجب أن تكون فارغة .
+    failure_when_forbidden: الرجاء التحقق جيدا من الرابط أو محاولة تقديم النموذج مرة أخرى.
+    failure_when_not_signed_in: يرجى تسجيل الدخول لمتابعة مسيرتك.
+  helpers:
+    label:
+      password:
+        email: عنوان البريد الالكترونى
+      password_reset:
+        password: اختر كلمة مرور
+    submit:
+      password:
+        submit: إعادة تعيين كلمة المرور
+      password_reset:
+        submit: حفظ كلمة المرور هذه
+      session:
+        submit: تسجيل الدخول
+      user:
+        create: الاشتراك
+  layouts:
+    application:
+      sign_in: تسجيل الدخول
+      sign_out: تسجيل الخروج
+  passwords:
+    create:
+      description: سوف تتلقى بريداَ  ألكترونيا في غضون الدقائق القليلة المقبلة. سيحتوي على تعليمات لتغيير كلمة المرور الخاصة بك.
+    edit:
+      description: Your password has been reset. Choose a new password below.
+      title: Change your password
+    new:
+      description: الرجاءأدخال بريدك الألكتروني حتى يتم إرسال رابطة لإعادة تركيب كلمة المرور الخاصة بك.
+      title: إعادة تعيين كلمة مرورك
+  sessions:
+    form:
+      forgot_password: هل نسيت كلمة المرور؟
+      sign_up: الاشتراك
+    new:
+      title: تسجيل الدخول
+  users:
+    new:
+      sign_in: تسجيل الدخول
+      title: الاشتراك
