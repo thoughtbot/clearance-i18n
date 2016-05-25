@@ -1,0 +1,54 @@
+---
+da:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Skift dit password
+  clearance_mailer:
+    change_password:
+      closing: Ignore denne email hvis du ikke har bedt om dette.
+      link_text: Skift mit password
+      opening: Link til at skifte dit password
+  flashes:
+    failure_after_create: Forket email eller password.
+    failure_after_update: Password skal udfyldes.
+    failure_when_forbidden: Der skete en fejl.
+    failure_when_not_signed_in: Du skal logge ind for at fortsætte.
+  helpers:
+    label:
+      password:
+        email: Din email
+      password_reset:
+        password: Nyt password
+    submit:
+      password:
+        submit: Nulstil password
+      password_reset:
+        submit: Gem password
+      session:
+        submit: Log ind
+      user:
+        create: Opret konto
+  layouts:
+    application:
+      sign_in: Log ind
+      sign_out: Sign ud
+  passwords:
+    create:
+      description: Vi har sendt dig en email med et link til at nulstille dit password
+    edit:
+      description: Dit password er blevet nustillet. Du kan oprette et nyt herunder
+      title: Skift dit password
+    new:
+      description: Få tilsendt et link til at nustille dit password
+      title: Nulstil dit password
+  sessions:
+    form:
+      forgot_password: Glemt password?
+      sign_up: Opret konto
+    new:
+      title: Log ind
+  users:
+    new:
+      sign_in: Log ind
+      title: Opret konto
