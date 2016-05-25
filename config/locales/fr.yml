@@ -14,6 +14,7 @@ fr:
     failure_after_create:
       "Adresse e-mail ou mot de passe incorrect. Voulez-vous créer un nouveau compte ?
        <a href='%{sign_up_path}'>S'inscrire</a>."
+    failure_when_access_denied: "S'il vous plaît, vous devez vous identifier"
   helpers:
     submit:
       password:
