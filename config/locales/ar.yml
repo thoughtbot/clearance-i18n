@@ -1,4 +1,8 @@
 en:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Change your password
   clearance_mailer:
     change_password: نسيت كلمة السر
       closing: إذا كنت لم تطلب هذا، تجاهل هذا البريد الإلكتروني. لم يتم تغيير كلمة المرور الخاصة بك.
