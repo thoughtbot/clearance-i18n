@@ -32,7 +32,7 @@ zh-CN:
   layouts:
     application:
       sign_in: 登录
-      sign_out: 注册
+      sign_out: 退出
   passwords:
     create:
       description: 您将会接收到一封邮件，请按照邮件内容修改您的账号密码
