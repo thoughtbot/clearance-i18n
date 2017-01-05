@@ -1,0 +1,54 @@
+en:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Şifrenizi değiştirin
+  clearance_mailer:
+    change_password:
+      closing: Bunu talep etmediyseniz, bu e-postayı yoksayın. Şifreniz değiştirilmeyecektir.
+      link_text: Şifremi değiştir
+      opening: Birisinin, umarım sizin, talebiyle şifre değiştirmeniz için size linki gönderdik
+  flashes:
+    failure_after_create: Yanlış e-posta veya şifre.
+    failure_after_update: Şifre boş bırakılamaz.
+    failure_when_forbidden: Lütfen URL'yi tekrar kontrol edin veya formu tekrar göndermeyi deneyin.
+    failure_when_not_signed_in: Devam etmek için lütfen giriş yapınız.
+  helpers:
+    label:
+      password:
+        email: E – posta adresi
+      password_reset:
+        password: Şifre seç
+    submit:
+      password:
+        submit: Şifreyi sıfırla
+      password_reset:
+        submit: Şifreyi kaydet
+      session:
+        submit: Giriş yap
+      user:
+        create: Üye ol
+  layouts:
+    application:
+      sign_in: Giriş yap
+      sign_out: Çıkış yap
+  passwords:
+    create:
+      description: Önümüzdeki birkaç dakika içinde bir e-posta alacaksınız.
+        Şifrenizi değiştirmek için talimatlar içerir.
+    edit:
+      description: Şifreniz sıfırlandı. Aşağıda yeni şifreyi seçin.
+      title: Şifreni değiştir
+    new:
+      description: Şifrenizi sıfırlamak için bir link gönderilecek, lütfen e-postanızı girin.
+      title: Şifrenizi sıfırlayın
+  sessions:
+    form:
+      forgot_password: Şifrenizi mi unuttunuz?
+      sign_up: Üye ol
+    new:
+      title: Giriş yap
+  users:
+    new:
+      sign_in: Giriş yap
+      title: Üye ol
