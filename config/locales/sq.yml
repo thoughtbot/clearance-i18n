@@ -1,0 +1,53 @@
+sq:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Ndërroni fjalëkalimin 
+  clearance_mailer:
+    change_password:
+      closing: Nëse nuk e keni kërkuar këtë, atëherë mos e merrni parasysh këtë email. Fjalëkalimi juaj nuk është ndryshuar
+      link_text: Ndërro fjalëkalimin tim
+      opening: Dikush, shpresojmë që ju, ka kërkuar nga ne që të ju dërgojmë linkun për të ndryshuar fjalëkalimin
+  flashes:
+    failure_after_create: Email-i apo fjalëkalim i gabuar.
+    failure_after_update: Fjalëkalimi nuk mund të jetë i zbrazët. 
+    failure_when_forbidden: Ju lutem shikoni edhe një herë URL-në ose provoni të dorëzoni edhe një herë formën.
+    failure_when_not_signed_in: Ju lutem hyni që të mund të vazhdoni. 
+  helpers:
+    label:
+      password:
+        email: Email-i
+      password_reset:
+        password: Zgjedh fjalëkalimin
+    submit:
+      password:
+        submit: Rivendos fjalëkalimin tuaj
+      password_reset:
+        submit: Ruaj këtë fjalëkalim
+      session:
+        submit: Hyr
+      user:
+        create: Krijo llogari 
+  layouts:
+    application:
+      sign_in: Hyr
+      sign_out: Dil
+  passwords:
+    create:
+      description: Për disa minuta do të ju vij një email. Email-i përmban udhëzime se si të ndryshoni fjalëkalimin tuaj.
+    edit:
+      description: Fjalëkalimi juaj është rivendosur. Më poshtë, zgjidhni një fjalëkalim të ri.
+      title: Ndrysho fjalëkalimin tënd
+    new:
+      description: Që të ju dërgojmë linkun për të ndryshuar fjalëkalimin, ju lutem shkruani email-in tuaj.
+      title: Rivendos fjalëkalimin tuaj
+  sessions:
+    form:
+      forgot_password: Keni harruar fjalëkalimin?
+      sign_up: Regjistrohu
+    new:
+      title: Hyr
+  users:
+    new:
+      sign_in: Hyr
+      title: Regjistrohu
