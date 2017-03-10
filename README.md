@@ -23,7 +23,7 @@ Bundle:
 Credits
 -------
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
 
 Clearance I18n is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
 and [contributors] like you. Thank you!
