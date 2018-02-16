@@ -19,6 +19,10 @@ ru:
         email: Email
       password_reset:
         password: Введите новый пароль
+      session:
+        password: Пароль
+      user:
+        password: Пароль
     submit:
       password:
         submit: Сброс пароля
