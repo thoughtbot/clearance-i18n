@@ -7,12 +7,12 @@ ru:
     change_password:
       closing: Если вы не запрашивали смену пароля, проигнорируйте это письмо. Ваш пароль не будет изменен.
       link_text: Изменить пароль
-      opening: Кто-то, запросил ссылку для смены вашего пароля
+      opening: Кто-то запросил ссылку для смены вашего пароля
   flashes:
     failure_after_create: Неправильный email или пароль
     failure_after_update: Пароль не может быть пустым
-    failure_when_forbidden: Проверьте URL или попробуйте отправить заново форму.
-    failure_when_not_signed_in: Войдите что бы продолжить
+    failure_when_forbidden: Проверьте URL или попробуйте отправить форму заново.
+    failure_when_not_signed_in: Войдите, чтобы продолжить
   helpers:
     label:
       password:
