@@ -1,0 +1,58 @@
+ca:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Canvia la contrasenya
+  clearance_mailer:
+    change_password:
+      closing: Si no has fet aquesta sol·licitud pots ignorar aquest correu.
+        No hem canviat la teva contrasenya.
+      link_text: Canvia la meva contrasenya
+      opening: "Algú, esperem que tu, ha sol·licitat que t'enviem un enllaç
+        per canviar contrasenya:"
+  flashes:
+    failure_after_create: Correu electrònic o contrasenya incorrectes.
+    failure_after_update: La contrasenya no pot estar buida.
+    failure_when_forbidden: Si us plau, verifica l'adreça o intenta
+      tornar a enviar el formulari.
+    failure_when_not_signed_in: Si us plau, inicia sessió per a continuar.
+  helpers:
+    label:
+      password:
+        email: Correu electrònic
+      password_reset:
+        password: Escull una contrasenya
+    submit:
+      password:
+        submit: Reestableix contrasenya
+      password_reset:
+        submit: Desa la contrasenya
+      session:
+        submit: Entra
+      user:
+        create: Registra't
+  layouts:
+    application:
+      sign_in: Entra
+      sign_out: Surt
+  passwords:
+    create:
+      description: Rebràs un correu d'aquí uns minuts. Conté les instruccions
+        per a modificar la contrasenya.
+    edit:
+      description: Hem reiniciat la constrasenya. Escull-ne una de nova.
+      title: Canvi de constrasenya
+    new:
+      description: Introdueix el teu correu electrònic i t'enviarem un enllaç
+        per a canviar la contrasenya.
+      title: Canvi de constrasenya
+  sessions:
+    form:
+      forgot_password: Has oblidat la constrasenya?
+      sign_up: Registra't
+    new:
+      title: Entra
+  users:
+    new:
+      sign_in: Entra
+      title: Registra't
