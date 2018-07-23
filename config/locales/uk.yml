@@ -1,0 +1,57 @@
+uk:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Змінити пароль
+  clearance_mailer:
+    change_password:
+      closing: Якщо ви не запитували зміну пароля, проігноруйте цей лист. Ваш пароль не буде змінено.
+      link_text: Змінити пароль
+      opening: Хтось запитав посилання для зміни вашого пароля
+  flashes:
+    failure_after_create: Неправильний email або пароль
+    failure_after_update: Пароль не може быть пустим
+    failure_when_forbidden: Перевірте URL або спробуйте відправити форму знову.
+    failure_when_not_signed_in: Увійдіть для продовження
+  helpers:
+    label:
+      password:
+        email: Email
+      password_reset:
+        password: Введіть новий пароль
+      session:
+        password: Пароль
+      user:
+        password: Пароль
+    submit:
+      password:
+        submit: Скидання пароля
+      password_reset:
+        submit: Зберегти пароль
+      session:
+        submit: Увійти
+      user:
+        create: Регістрація
+  layouts:
+    application:
+      sign_in: Увійти
+      sign_out: Вийти
+  passwords:
+    create:
+      description: Протягом декількох хвилин ви отримаєте лист. Воно містить інструкції зі зміни пароля.
+    edit:
+      description: Ваш пароль був скинутий. Введіть новий пароль нижче.
+      title: Змінити пароль
+    new:
+      description: Щоб отримати посилання для скидання пароля, введіть вашу електронну адресу електронної пошти.
+      title: Скидання пароля
+  sessions:
+    form:
+      forgot_password: Забули пароль?
+      sign_up: Регістрація
+    new:
+      title: Увійти
+  users:
+    new:
+      sign_in: Увійти
+      title: Регістрація
