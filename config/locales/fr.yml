@@ -60,7 +60,7 @@ fr:
   sessions:
     form:
       forgot_password:
-        'Mot de pass oublié ?'
+        'Mot de passe oublié ?'
       sign_up:
         "S'incrire"
     new:
