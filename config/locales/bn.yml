@@ -1,0 +1,63 @@
+bn:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: আপনার পাসওয়ার্ড পরিবর্তন করুন
+  clearance_mailer:
+    change_password:
+      closing: আপনি যদি এই রিকুয়েস্টটি করে না থাকেন তাহলে এই ইমেইলটি উপেক্ষা
+         করুন। আপনার পাসওয়ার্ড পরিবর্তন হয়নি।
+      link_text: আমার পাসওয়ার্ড পরিবর্তন করুন
+      opening: "কেউ একজন সম্ভবত আপনি এই রিকুয়েস্টটি করেছেন, আমরা একটি লিঙ্ক
+       পাঠিয়েছি আপনার পাসওয়ার্ড পরিবর্তন করার জন্য:"
+  flashes:
+    failure_after_create: ভুল ইমেইল অথবা ভুল পাসওয়ার্ড।
+    failure_after_update: পাসওয়ার্ড খালি হতে পারবে না।
+    failure_when_forbidden: অনুগ্রহপূর্বক লিঙ্কটি দ্বিতীয়বার চেক করুন অথবা
+      ফর্ম পুনরায় সাবমিট করুন।
+    failure_when_not_signed_in: অনুগ্রহপূর্বক সাইন ইন করুন চালিয়ে যাওয়ার জন্য।
+  helpers:
+    label:
+      password:
+        email: ইমেইল ঠিকানা
+      password_reset:
+        password: পাসওয়ার্ড নির্বাচন করুন
+      session:
+        password: পাসওয়ার্ড
+      user:
+        password: পাসওয়ার্ড
+    submit:
+      password:
+        submit: পাসওয়ার্ড রিসেট করুন
+      password_reset:
+        submit: পাসওয়ার্ড সেভ করুন
+      session:
+        submit: সাইন ইন
+      user:
+        create: সাইন আপ
+  layouts:
+    application:
+      sign_in: সাইন ইন
+      sign_out: সাইন আউট
+  passwords:
+    create:
+      description: আপনি কয়েক মিনিটের মধ্যে একটি ইমেইল পাবেন। ওখানে আপনার
+        পাসওয়ার্ড পরিবর্তন করার নির্দেশাবলী থাকবে।
+    edit:
+      description: আপনার পাসওয়ার্ড রিসেট করা হয়েছে। নিচে নতুন একটা পাসওয়ার্ড
+        নির্বাচন করুন।
+      title: আপনার পাসওয়ার্ড পরিবর্তন করুন
+    new:
+      description: পাসওয়ার্ড রিসেটের লিঙ্ক সহ ইমেইল পাওয়ার জন্য অনুগ্রহপূর্বক
+        আপনার ইমেইল ঠিকানা এন্টার করুন।
+      title: আপনার পাসওয়ার্ড রিসেট করুন
+  sessions:
+    form:
+      forgot_password: পাসওয়ার্ড ভুলে গেছেন?
+      sign_up: সাইন আপ
+    new:
+      title: সাইন ইন
+  users:
+    new:
+      sign_in: সাইন ইন
+      title: সাইন আপ
