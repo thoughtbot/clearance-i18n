@@ -1,0 +1,61 @@
+ja:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: パスワードを変更してください
+  clearance_mailer:
+    change_password:
+      closing: もしこのパスワード変更依頼に心当たりがない場合、申し訳ありませんがこのメールを無視してください。
+        パスワードは変更されていません。
+      link_text: パスワードを変更する
+      opening: "パスワード変更のリクエストを受け取りました: "
+  flashes:
+    failure_after_create: メールアドレスもしくはパスワードが誤っています
+    failure_after_update: Passwordが空欄です
+    failure_when_forbidden: もう一度URLをご確認いただくか、再度登録をお試しください。
+    failure_when_not_signed_in: サインインを続けてください。
+  helpers:
+    label:
+      password:
+        email: メールアドレス
+      password_reset:
+        password: パスワードを登録してください
+      session:
+        email: メールアドレス
+        password: パスワード
+      user:
+        email: メールアドレス
+        password: パスワード
+    submit:
+      password:
+        submit: パスワードをリセットする
+      password_reset:
+        submit: パスワードを保存する
+      session:
+        submit: サインイン
+      user:
+        create: サインアップ
+  layouts:
+    application:
+      sign_in: サインイン
+      sign_out: サインアウト
+  passwords:
+    create:
+      description: まもなくパスワード変更方法を記載したメールが送信されます。
+    edit:
+      description: パスワードをリセットしました。新しいパスワードを登録してください。
+      title: パスワード変更
+    new:
+      description: パスワードをリセットするリンクをメールで送信します。
+        メールアドレスを入力してください。
+      title: パスワードのリセット
+  sessions:
+    form:
+      forgot_password: パスワードをお忘れですか？
+      sign_up: サインアップ
+    new:
+      title: サインイン
+  users:
+    new:
+      sign_in: サインイン
+      title: サインアップ
