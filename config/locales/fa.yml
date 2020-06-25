@@ -1,0 +1,54 @@
+--- 
+fa: 
+  clearance: 
+    models: 
+      clearance_mailer: 
+        change_password: "کلمه عبور خود را تغییر دهید"
+  clearance_mailer: 
+    change_password: 
+      closing: "اگر شما این درخواست را ارسال نکرده اید لطفا این ایمیل را نادیده بگیرید، رمز عبور شما تا زمانی که به لینک بالا مراجعه نکنید و رمز عبور جدید نسازید تغییر نخواهد کرد."
+      link_text: "تغییر کلمه عبور"
+      opening: "شخصی درخواست تغییر رمز عبور شما را داده و شما می توانید این کار را از طریق لینک زیر انجام دهید:"
+  flashes: 
+    failure_after_create: "پست الکترونیکی یا کلمه عبور صحیح نمی‌باشد"
+    failure_after_update: "کلمه عبور نمی‌تواند خالی باشد"
+    failure_when_forbidden: "لطفا آدرس صفحه جاری را چک کرده و یا درخواست خود را دوباره ارسال نمایید"
+    failure_when_not_signed_in: "لطفا برای ادامه وارد حساب کاربری خود شوید"
+  helpers: 
+    label: 
+      password: 
+        email: "پست الکترونیکی"
+      password_reset: 
+        password: "کلمه عبور"
+    submit: 
+      password: 
+        submit: "بازنشانی کلمه عبور"
+      password_reset: 
+        submit: "مرا بخاطر بسپار"
+      session: 
+        submit: "ورود به حساب کاربری"
+      user: 
+        create: عضویت
+  layouts: 
+    application: 
+      sign_in: "ورود به حساب کاربری"
+      sign_out: خروج
+  passwords: 
+    create: 
+      description: "اگر ایمیل شما قبلا در سیستم ثبت شده باشد، تا چند دقیقه‌ی دیگر یک ایمیل حاوی توضیحات چگونگی تغییر کلمه عبور حساب‌تان دریافت می‌کنید."
+    edit: 
+      description: "تغییر کلمه عبور با موفقیت انجام گردید"
+      title: "کلمه عبور خود را تغییر دهید"
+    new: 
+      description: "اگر ایمیل شما قبلا در سیستم ثبت شده باشد، تا چند دقیقه‌ی دیگر یک ایمیل حاوی توضیحات چگونگی تغییر کلمه عبور حساب‌تان دریافت می‌کنید."
+      title: "بازنشانی کلمه عبور"
+  sessions: 
+    form: 
+      forgot_password: "بازیابی کلمه عبور"
+      sign_up: عضویت
+    new: 
+      title: "ایجاد حساب کاربری"
+  users: 
+    new: 
+      sign_in: "ورود به حساب کاربری"
+      title: "ایجاد حساب کاربری"
