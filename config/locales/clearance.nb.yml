@@ -1,0 +1,59 @@
+nb:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Endre passord
+  clearance_mailer:
+    change_password:
+      closing: Hvis du ikke har spurt om nytt passord, vennligst ignorer denne eposten. Ditt passord har ikke blitt endret.
+      link_text: Endre mitt passord
+      opening: "Noen, forhåpentligvis deg, har forespurt om å bytte passord. Her lenken du må benytte for å endre ditt passord:"
+  flashes:
+    failure_after_create: Feil epost eller passord.
+    failure_after_update: Passordet kan ikke være blankt.
+    failure_when_forbidden: Vennligst prøv igjen.
+    failure_when_not_signed_in: Du må være innlogget for å kunne fortsette. 
+    failure_when_missing_email: Epost kan ikke være tom.
+  helpers:
+    label:
+      password:
+        email: Epostadresse
+      password_reset:
+        password: Velg passord
+      session:
+        password: Passord
+      user:
+        password: Passord
+    submit:
+      password:
+        submit: Nullstill passord
+      password_reset:
+        submit: Lagre dette passordet
+      session:
+        submit: Logg inn
+      user:
+        create: Registrer deg
+  layouts:
+    application:
+      sign_in: Logg inn
+      sign_out: Logg ut
+      signed_in_as: Logget inn som
+  passwords:
+    create:
+      description: Du vil straks motta en epost som inneholder instruksjoner for å bytte passord.
+    edit:
+      description: Ditt passord er blitt nullstilt. Skriv inn et nytt passord nedenfor.
+      title: Endre passord
+    new:
+      description: Skriv inn din epostadresse. Du vil deretter motta en epost med en lenke til nullstilling av passordet ditt.
+      title: Nullstill ditt passord
+  sessions:
+    form:
+      forgot_password: Glemt passord?
+      sign_up: Registrer deg
+    new:
+      title: Logg inn
+  users:
+    new:
+      sign_in: Logg inn
+      title: Registrer deg
