@@ -32,7 +32,7 @@ en:
         password: Password
     submit:
       password:
-        submit: Ripristina la password
+        submit: Reimposta la password
       password_reset:
         submit: Salva questa password
       session:
@@ -48,13 +48,13 @@ en:
       description: Riceverai un'e-mail nei prossimi minuti. Contiene
         le istruzioni per modificare la password.
     edit:
-      description: La tua password è stata ripristinata. Scegli una nuova password di seguito.
+      description: La tua password è stata reimpostata. Scegli una nuova password di seguito.
       title: Cambia la tua password
     new:
       description:
         Per ricevere via e-mail con un link per reimpostare la password, inserisci
         il tuo indirizzo di posta elettronica.
-      title: Ripristina la tua password
+      title: Reimposta la tua password
   sessions:
     form:
       forgot_password: Hai dimenticato la password?
