@@ -1,5 +1,4 @@
-Clearance I18n
-==============
+# Clearance I18n
 
 Adds multilingual support to [clearance] using YML locale files.
 
@@ -7,8 +6,7 @@ Adds multilingual support to [clearance] using YML locale files.
 
 Read [CONTRIBUTING.md](/CONTRIBUTING.md) to contribute.
 
-Install
--------
+## Install
 
 Include the gem in your Gemfile:
 
@@ -20,20 +18,18 @@ Bundle:
 
     bundle
 
-Credits
--------
+## Credits
 
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
+![thoughtbot](https://thoughtbot.com/brand_assets/93:44.svg)
 
 Clearance I18n is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
 and [contributors] like you. Thank you!
 
 [contributors]: https://github.com/thoughtbot/clearance-i18n/contributors
 
-License
--------
+## License
 
-Clearance I18n is copyright © 2013 thoughtbot. It is free software, and may be
+Clearance I18n is copyright © 2013-2023 thoughtbot. It is free software, and may be
 redistributed under the terms specified in the `LICENSE` file.
 
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
