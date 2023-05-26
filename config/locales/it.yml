@@ -1,0 +1,67 @@
+---
+en:
+  clearance:
+    models:
+      clearance_mailer:
+        change_password: Cambia la tua password
+  clearance_mailer:
+    change_password:
+      closing:
+        Se non lo hai richiesto, ignora questa email. La tua password non è
+        stata modificata.
+      link_text: Cambia la mia password
+      opening:
+        "Qualcuno, si spera tu, ci ha chiesto di inviarti un link per cambiare
+        la tua password:"
+  flashes:
+    failure_after_create: Email o password errate.
+    failure_after_update: La password non può essere vuota.
+    failure_when_forbidden: Ricontrolla l'URL o prova a inviare
+      di nuovo il modulo.
+    failure_when_not_signed_in: Accedi per continuare.
+    failure_when_missing_email: L'email non può essere vuota.
+  helpers:
+    label:
+      password:
+        email: Indirizzo email
+      password_reset:
+        password: Scegli la password
+      session:
+        password: Password
+      user:
+        password: Password
+    submit:
+      password:
+        submit: Ripristina la password
+      password_reset:
+        submit: Salva questa password
+      session:
+        submit: Accedi
+      user:
+        create: Iscriviti
+  layouts:
+    application:
+      sign_in: Accedi
+      sign_out: Esci
+  passwords:
+    create:
+      description: Riceverai un'e-mail nei prossimi minuti. Contiene
+        le istruzioni per modificare la password.
+    edit:
+      description: La tua password è stata ripristinata. Scegli una nuova password di seguito.
+      title: Cambia la tua password
+    new:
+      description:
+        Per ricevere via e-mail con un link per reimpostare la password, inserisci
+        il tuo indirizzo di posta elettronica.
+      title: Ripristina la tua password
+  sessions:
+    form:
+      forgot_password: Hai dimenticato la password?
+      sign_up: Accedi
+    new:
+      title: Accedi
+  users:
+    new:
+      sign_in: Accedi
+      title: Iscriviti
