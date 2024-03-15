@@ -26,7 +26,7 @@ Thank you, [contributors]!
 
 ## License
 
-Clearance I18n is copyright © 2013-2024 thoughtbot. It is free software, and may be
+Clearance I18n is copyright © 2013 thoughtbot. It is free software, and may be
 redistributed under the terms specified in the `LICENSE` file.
 
 <!-- START /templates/footer.md -->
