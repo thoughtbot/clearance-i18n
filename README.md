@@ -20,16 +20,14 @@ Bundle:
 
 ## Credits
 
-![thoughtbot](https://thoughtbot.com/brand_assets/93:44.svg)
-
-Clearance I18n is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
-and [contributors] like you. Thank you!
+Thank you, [contributors]!
 
 [contributors]: https://github.com/thoughtbot/clearance-i18n/contributors
 
 ## License
 
-Clearance I18n is copyright © 2013-2023 thoughtbot. It is free software, and may be
+Clearance I18n is copyright © 2013 thoughtbot. It is free software, and may be
 redistributed under the terms specified in the `LICENSE` file.
 
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+<!-- START /templates/footer.md -->
+<!-- END /templates/footer.md -->
