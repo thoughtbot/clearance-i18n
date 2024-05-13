@@ -97,7 +97,7 @@ GEM
       net-pop
       net-smtp
     mini_mime (1.1.5)
-    mini_portile2 (2.8.5)
+    mini_portile2 (2.8.6)
     minitest (5.22.2)
     mutex_m (0.2.0)
     net-imap (0.4.10)
@@ -109,7 +109,7 @@ GEM
       timeout
     net-smtp (0.4.0.1)
       net-protocol
-    nokogiri (1.16.2)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     psych (5.1.2)
