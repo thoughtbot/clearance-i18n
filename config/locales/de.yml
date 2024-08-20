@@ -10,6 +10,7 @@ de:
     failure_after_update: Bitte geben Sie ein Passwort ein.
     failure_when_forbidden: Bitte überprüfen Sie die URL und versuchen
       es dann erneut.
+    failure_when_missing_email: Bitte geben Sie Ihre E-Mail Adresse an.
   helpers:
     label:
       password:
