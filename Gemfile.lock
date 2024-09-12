@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clearance-i18n (0.1.0)
+    clearance-i18n (0.1.1)
       clearance (>= 1.15, <= 2.8)
 
 GEM
