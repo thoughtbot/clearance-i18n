@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors = ['Joe Ferris']
   s.description = 'Multilingual support using packaged yml locale files.'
   s.email = 'support@thoughtbot.com'
-  s.homepage = 'http://github.com/thoughtbot/clearance'
+  s.homepage = 'https://github.com/thoughtbot/clearance-i18n'
   s.license = 'MIT'
   s.name = 'clearance-i18n'
   s.summary = 'Use clearance in multiple languages'
